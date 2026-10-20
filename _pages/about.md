@@ -18,6 +18,6 @@ latest_posts:
 
 We write about how AI agents fail and how teams test them: red teaming, evals, and observability. The blog is run by the team building [BotGauge's AI agent red teaming platform](https://www.botgauge.com/).
 
-New here? Start with [what observability, evals, and red teaming each catch](/blog/2026/ai-agent-observability-evals-red-teaming/), then read [why AI agents pass their tests and still fail in production](/blog/2026/why-ai-agents-pass-tests-fail-in-production/).
+New to the topic? Start with [what AI agent red teaming is](https://www.botgauge.com/blog/what-is-ai-agent-red-teaming), then read [when to red team an AI agent](https://www.botgauge.com/blog/when-should-you-red-team-an-ai-agent) and [how to prevent prompt injection in AI agents](https://www.botgauge.com/blog/how-to-prevent-prompt-injection-in-ai-agents).
 
-For more guides, see the [BotGauge blog](https://www.botgauge.com/blog).
+If you're comparing tools, see our guide to [AI observability and evaluation tools](https://www.botgauge.com/blog/best-ai-observability-tools). More guides are on the [BotGauge blog](https://www.botgauge.com/blog).
